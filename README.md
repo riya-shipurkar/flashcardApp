@@ -7,7 +7,7 @@ FLASHCARD_APP
 ### App Description
 This is a flashcard app.It displays a question and the user is supposed to guess the answer. Clicking on the question will flip it and give the correct answer. 
 
-### App Walk-though
+### App Walk-through
 
 <img src="gif.lab.gif" width=200><br>
 
@@ -16,7 +16,7 @@ This is a flashcard app.It displays a question and the user is supposed to guess
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHu
+- [x] Push code to GitHub
 ## Optional
 - [ ] toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
